@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/job-listing-frontend_challenge/static/css/main.0b320848.css",
+    "main.js": "/job-listing-frontend_challenge/static/js/main.c26a8e36.js",
+    "index.html": "/job-listing-frontend_challenge/index.html",
+    "main.0b320848.css.map": "/job-listing-frontend_challenge/static/css/main.0b320848.css.map",
+    "main.c26a8e36.js.map": "/job-listing-frontend_challenge/static/js/main.c26a8e36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b320848.css",
+    "static/js/main.c26a8e36.js"
+  ]
+}
